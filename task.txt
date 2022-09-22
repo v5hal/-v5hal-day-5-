@@ -1,0 +1,39 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+date:23/07/2022
+
+pre read:
+.https://developer.mozilla.org/en-US/docs/Web/HTML
+.https://www.w3schools.com/html/
+.https://html.spec.whatwg.org/multipage/
+
+
+WHAT IS HTML?
+.hyper tex markup language
+.it consists of element and tags
+.all languages will have certain guidelines to write the coad
+
+doctype:
+. it informs the browser about the version of html
+
+<html></html>= 90% of tags we are using in html had open and close angular brackets
+
+meta tage:
+.it contains extra info or extra content about the browser
+
+TABLE TAG:
+.thead=heading of the table
+.tbody=contents inside the table below heading
+.tr= table rows a thead and a tbody has
+.th= table head(number of heading cells inside thead)
+.td= table data(number of cells inside tbody) 
+.colspan-merge the columns horizontally 
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+date:24/7/2022
+
+pre read:
+https://www.w3schools.com/html/default.asp
+https://github.com/rvsp/html-CSS/
+
